@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: 6d7aeaa607b57b34d83ddeaa5bd8c8f1
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -751,8 +751,7 @@ PlayerSettings:
   metroDefaultTileSize: 1
   metroTileForegroundText: 2
   metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
-  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628,
-    a: 1}
+  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities: {}
   metroTargetDeviceFamilies: {}
@@ -814,7 +813,7 @@ PlayerSettings:
   cloudProjectId: 37532b76-5071-4f92-8726-b162fb03baee
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Zombie Defense - The Last Stand (1)
+  projectName: My project 2024-08-09_15-39-40
   organizationId: btevfikakkeser
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
